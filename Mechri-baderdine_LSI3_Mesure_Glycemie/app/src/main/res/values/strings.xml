@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mechri_Baderdine_Mesure_Glycemie</string>
+    <string name="Votreage">Votre Age</string>
+    <string name="resultat">...\n</string>
+    <string name="consult">Consulter</string>
+    <string name="tvResult">...\n</string>
+</resources>
